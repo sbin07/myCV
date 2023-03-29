@@ -1,0 +1,14 @@
+span{
+	font-size: 15px;
+	color:#4dd2ff;
+}
+body{
+	font-family: verdana, arial, "Times New Roman";
+	font-size: 13px;
+}
+td.bauriba{
+	border-top-style:hidden;
+}
+td.center{
+	text-align:center;
+}
