@@ -24,21 +24,21 @@
       <hr>
       <table >
          <tr>
-            <td class center><img src="Poza.jpg" alt="Mihalut Ovidiu" width="200" height="266"></td>
+            <td class center><img src="Poza.jpg" alt="Gavrilov Sabin" width="200" height="266"></td>
             <td>
                <p><span>Informații personale</span></p>
                <p>
-                  <span>Numele-Prenume:</span>Mihăluț Ovidiu-Cristian<br>
+                  <span>Numele-Prenume:</span>Gavrilov Sabinn<br>
                   <span>Ziua de nastere:</span> 03.12.2000<br>
                   <span>Sex:</span> Masculin<br>
                   <span>Nationalitate:</span> Română
                </p>
                <p>
                   <img src="Locatie.jpg" alt="" width="15" height="15" > România, jud Sibiu, loc Sibiu, str. Henri Coanda, nr.53, bl.4, ap.M1<br>
-                  <img src="Gmail.png" alt="" width="15" height="15"> <a href="mailto:ovidiu.mihalut@ulbsibiu.ro">ovidiu.mihalut@ulbsibiu.ro</a><br>
+                  <img src="Gmail.png" alt="" width="15" height="15"> <a href="mailto:sabin.gavrilov@ulbsibiu.ro">sabin.gavrilov@ulbsibiu.ro</a><br>
                   <img src="Telefon.png" alt="" width="15" height="15"> <a href="tel:0755123793">0755123793</a><br>
-                  <img src="Facebook.png" alt="" width="15" height="15">  <a href="https://www.facebook.com/c.ovidiu3">Facebook</a><br>
-                  <img src="Instagram.png" alt="" width="15" height="15">  <a href="https://www.instagram.com/c.ovidiu3/">Instagram</a>
+                  <img src="Facebook.png" alt="" width="15" height="15">  <a href="https://www.facebook.com/c.sbin3">Facebook</a><br>
+                  <img src="Instagram.png" alt="" width="15" height="15">  <a href="https://www.instagram.com/c.sbin3/">Instagram</a>
                </p>
             </td>
          </tr>

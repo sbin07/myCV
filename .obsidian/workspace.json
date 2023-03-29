@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "index.html.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "index.html.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "5d9af0a311463f18",
   "lastOpenFiles": [
+    "Telefon.png",
+    "index.html.md",
     "index.html",
     "CV.html",
-    "Telefon.png",
     "stillCV.css",
     "Sigla.png",
     "Locatie.jpg",
     "Instagram.png",
     "Gmail.png",
-    "Facebook.png",
-    "Untitled.md"
+    "Facebook.png"
   ]
 }
